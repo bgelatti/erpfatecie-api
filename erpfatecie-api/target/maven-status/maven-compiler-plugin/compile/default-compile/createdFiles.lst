@@ -1,0 +1,5 @@
+br/com/empresa/erpfatecie/seed/Seed.class
+br/com/empresa/erpfatecie/api/GumgaRegexApiOperationTranslator.class
+br/com/empresa/erpfatecie/api/GumgaRegexApiOperationTranslator$OperationExpression.class
+br/com/empresa/erpfatecie/api/ProdutoApi.class
+br/com/empresa/erpfatecie/api/PessoaApi.class

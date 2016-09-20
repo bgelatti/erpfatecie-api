@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="erpfatecie-api:war">
+    <output-path>$PROJECT_DIR$/erpfatecie-api/target</output-path>
+    <root id="archive" name="erpfatecie-api.war">
+      <element id="artifact" artifact-name="erpfatecie-api:war exploded" />
+    </root>
+  </artifact>
+</component>

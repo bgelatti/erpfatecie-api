@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/erpfatecie.iml" filepath="$PROJECT_DIR$/erpfatecie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erpfatecie-api/erpfatecie-api.iml" filepath="$PROJECT_DIR$/erpfatecie-api/erpfatecie-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erpfatecie-application/erpfatecie-application.iml" filepath="$PROJECT_DIR$/erpfatecie-application/erpfatecie-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erpfatecie-domain/erpfatecie-domain.iml" filepath="$PROJECT_DIR$/erpfatecie-domain/erpfatecie-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erpfatecie-gateway/erpfatecie-gateway.iml" filepath="$PROJECT_DIR$/erpfatecie-gateway/erpfatecie-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erpfatecie-infrastructure/erpfatecie-infrastructure.iml" filepath="$PROJECT_DIR$/erpfatecie-infrastructure/erpfatecie-infrastructure.iml" />
+    </modules>
+  </component>
+</project>

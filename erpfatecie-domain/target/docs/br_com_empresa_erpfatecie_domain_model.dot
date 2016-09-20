@@ -1,0 +1,27 @@
+//Gerado automaticamente por plugin da www.gumga.com.br munif@munifgebara.com.br
+
+digraph G{
+fontname = "Bitstream Vera Sans"
+fontsize = 8
+
+node [
+        fontname = "Bitstream Vera Sans"
+        fontsize = 8
+        shape = "record"
+]
+
+edge [
+        fontname = "Bitstream Vera Sans"
+        fontsize = 8
+]
+
+subgraph clusterbr_com_empresa_erpfatecie_domain_model
+{
+label="br.com.empresa.erpfatecie.domain.model";
+Produto [label = "{Produto|nome:String\lcodigoBarra:String\ldescricao:String\lpreco:Double\ldt_cadastro:Date\l|}"]
+Pessoa [label = "{Pessoa|nome:String\ldt_nascimento:Date\lrg_ie:String\lcpf_cnpj:String\lapelido:String\ltelefone:String\lgenero:String\l|}"]
+}
+
+
+}
+

@@ -1,0 +1,4 @@
+br/com/empresa/infrastructure/config/ApplicationConstants.class
+br/com/empresa/infrastructure/config/WebConfig.class
+br/com/empresa/infrastructure/config/Bootstrap.class
+br/com/empresa/infrastructure/config/Application.class
