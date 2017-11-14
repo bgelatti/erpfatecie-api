@@ -1,4 +1,8 @@
-br/com/empresa/service/PessoaService.class
 br/com/empresa/repository/PessoaRepository.class
-br/com/empresa/service/ProdutoService.class
+br/com/empresa/service/PessoaService.class
+br/com/empresa/repository/ProfessorRepository.class
 br/com/empresa/repository/ProdutoRepository.class
+br/com/empresa/service/ProdutoService.class
+br/com/empresa/service/ProfessorService.class
+br/com/empresa/repository/MateriaRepository.class
+br/com/empresa/service/MateriaService.class

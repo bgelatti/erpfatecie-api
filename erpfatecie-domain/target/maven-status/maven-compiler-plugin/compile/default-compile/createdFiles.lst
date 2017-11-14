@@ -1,3 +1,7 @@
+br/com/empresa/erpfatecie/domain/model/QProfessor.class
+br/com/empresa/erpfatecie/domain/model/QMateria.class
+br/com/empresa/erpfatecie/domain/model/Materia.class
+br/com/empresa/erpfatecie/domain/model/Professor.class
 br/com/empresa/erpfatecie/domain/model/Pessoa.class
 br/com/empresa/erpfatecie/domain/model/QPessoa.class
 br/com/empresa/erpfatecie/domain/model/Produto.class

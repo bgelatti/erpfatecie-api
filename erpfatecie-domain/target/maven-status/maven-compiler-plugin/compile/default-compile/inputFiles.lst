@@ -1,4 +1,8 @@
-/home/gella/Projetos/Fatecie/erpfatecie/erpfatecie-domain/target/generated-sources/java/br/com/empresa/erpfatecie/domain/model/QProduto.java
-/home/gella/Projetos/Fatecie/erpfatecie/erpfatecie-domain/src/main/java/br/com/empresa/erpfatecie/domain/model/Pessoa.java
-/home/gella/Projetos/Fatecie/erpfatecie/erpfatecie-domain/src/main/java/br/com/empresa/erpfatecie/domain/model/Produto.java
-/home/gella/Projetos/Fatecie/erpfatecie/erpfatecie-domain/target/generated-sources/java/br/com/empresa/erpfatecie/domain/model/QPessoa.java
+/home/gelatti/Projetos/Fatecie/erpfatecie-api/erpfatecie-domain/target/generated-sources/java/br/com/empresa/erpfatecie/domain/model/QProfessor.java
+/home/gelatti/Projetos/Fatecie/erpfatecie-api/erpfatecie-domain/src/main/java/br/com/empresa/erpfatecie/domain/model/Materia.java
+/home/gelatti/Projetos/Fatecie/erpfatecie-api/erpfatecie-domain/src/main/java/br/com/empresa/erpfatecie/domain/model/Produto.java
+/home/gelatti/Projetos/Fatecie/erpfatecie-api/erpfatecie-domain/target/generated-sources/java/br/com/empresa/erpfatecie/domain/model/QPessoa.java
+/home/gelatti/Projetos/Fatecie/erpfatecie-api/erpfatecie-domain/target/generated-sources/java/br/com/empresa/erpfatecie/domain/model/QProduto.java
+/home/gelatti/Projetos/Fatecie/erpfatecie-api/erpfatecie-domain/target/generated-sources/java/br/com/empresa/erpfatecie/domain/model/QMateria.java
+/home/gelatti/Projetos/Fatecie/erpfatecie-api/erpfatecie-domain/src/main/java/br/com/empresa/erpfatecie/domain/model/Professor.java
+/home/gelatti/Projetos/Fatecie/erpfatecie-api/erpfatecie-domain/src/main/java/br/com/empresa/erpfatecie/domain/model/Pessoa.java

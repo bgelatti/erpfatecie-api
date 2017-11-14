@@ -1,4 +1,8 @@
-/home/gella/Projetos/Fatecie/erpfatecie/erpfatecie-application/src/main/java/br/com/empresa/service/ProdutoService.java
-/home/gella/Projetos/Fatecie/erpfatecie/erpfatecie-application/src/main/java/br/com/empresa/service/PessoaService.java
-/home/gella/Projetos/Fatecie/erpfatecie/erpfatecie-application/src/main/java/br/com/empresa/repository/PessoaRepository.java
-/home/gella/Projetos/Fatecie/erpfatecie/erpfatecie-application/src/main/java/br/com/empresa/repository/ProdutoRepository.java
+/home/gelatti/Projetos/Fatecie/erpfatecie-api/erpfatecie-application/src/main/java/br/com/empresa/repository/MateriaRepository.java
+/home/gelatti/Projetos/Fatecie/erpfatecie-api/erpfatecie-application/src/main/java/br/com/empresa/service/MateriaService.java
+/home/gelatti/Projetos/Fatecie/erpfatecie-api/erpfatecie-application/src/main/java/br/com/empresa/service/ProdutoService.java
+/home/gelatti/Projetos/Fatecie/erpfatecie-api/erpfatecie-application/src/main/java/br/com/empresa/service/PessoaService.java
+/home/gelatti/Projetos/Fatecie/erpfatecie-api/erpfatecie-application/src/main/java/br/com/empresa/repository/ProdutoRepository.java
+/home/gelatti/Projetos/Fatecie/erpfatecie-api/erpfatecie-application/src/main/java/br/com/empresa/repository/PessoaRepository.java
+/home/gelatti/Projetos/Fatecie/erpfatecie-api/erpfatecie-application/src/main/java/br/com/empresa/service/ProfessorService.java
+/home/gelatti/Projetos/Fatecie/erpfatecie-api/erpfatecie-application/src/main/java/br/com/empresa/repository/ProfessorRepository.java
